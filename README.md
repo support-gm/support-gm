@@ -16,7 +16,9 @@ Follow Prism's Development
 If you want to keep up with the updates and latest features, follow us on the following channels:
 
  <a href="https://www.linkedin.com/in/gauravghongde"> [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>](https://il.linkedin.com/company/graymatters-health/) </a>
+ <a href="https://outlook.office.com/mail/deeplink?mailtouri=mailto%3Ainfo%40graymatters.health%3Fsubject%3DWebsite%2520contact">
  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+ </a>
 
 
 Authors
